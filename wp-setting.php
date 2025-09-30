@@ -136,8 +136,8 @@
     {
       "@type": "ImageObject",
       "author": "Rajabandot",
-      "contentUrl": "https://rjp.pages.dev/",
-      "thumbnailUrl": "https://rjp.pages.dev/"
+      "contentUrl": "https://i.imgur.com/LZTCMX2.jpeg",
+      "thumbnailUrl": "https://i.imgur.com/LZTCMX2.jpeg"
     }
   ],
   "category": "Android Game < Bandar Slot Resmi < Toto Slot",
@@ -206,8 +206,8 @@
   "name": "RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat",
   "description": "RAJABANDOT Situs slot 4D resmi #100 perak! Proses super cepat taruhan ringan dan hadiah besar menanti setiap putaran permainan.",
   "thumbnailUrl": [
-    "https://rjp.pages.dev/",
-    "https://rjp.pages.dev/"
+    "https://i.imgur.com/LZTCMX2.jpeg",
+    "https://i.imgur.com/LZTCMX2.jpeg"
   ],
   "uploadDate": "2024-09-28T04:19:10-04:00",
   "duration": "PT18S",
@@ -239,7 +239,7 @@
       "@id": "https://keshav.du.ac.in/#org",
       "name": "Rajabandot",
       "url": "https://keshav.du.ac.in/",
-      "logo": "https://rjp.pages.dev/"
+      "logo": "https://i.imgur.com/LZTCMX2.jpeg"
     },
     {
       "@type": "WebSite",
@@ -270,13 +270,13 @@
         <meta name="twitter:site" content="@Rajabandot" value="" /><meta name="twitter:card" content="summary_large_image" value="" /><meta name="twitter:app:name:iphone" content="Rajabandot" value="" /><meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:iphone" content="477128284" value="" /><meta name="twitter:app:name:ipad" content="Rajabandot" value="" /><meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:ipad" content="477128284" value="" /><meta name="twitter:app:name:googleplay" content="Rajabandot" value="" /><meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
 <meta property="og:title" content="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat" />
 <meta property="og:description" content="RAJABANDOT Situs slot 4D resmi #100 perak! Proses super cepat taruhan ringan dan hadiah besar menanti setiap putaran permainan." />
-<meta property="og:type" content="product" /><meta property="og:url" content="https://jd-event.accunix.net/about-us" /><meta property="og:image" content="https://rjp.pages.dev/" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />
+<meta property="og:type" content="product" /><meta property="og:url" content="https://jd-event.accunix.net/about-us" /><meta property="og:image" content="https://i.imgur.com/LZTCMX2.jpeg" /><meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />
 
         
 
         <meta property="al:ios:url" content="etsy://listing/4302118744?ref=applinks_ios" /><meta property="al:ios:app_store_id" content="477128284" /><meta property="al:ios:app_name" content="Rajabandot" /><meta property="al:android:url" content="etsy://listing/4302118744?ref=applinks_android"/><meta property="al:android:package" content="com.etsy.android" /><meta property="al:android:app_name" content="Rajabandot" />
 
-        <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" /><link rel="preconnect" href="//i.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://rjp.pages.dev/" fetchpriority="high" />
+        <link rel="preconnect" href="//i.etsystatic.com" crossorigin="anonymous" /><link rel="preconnect" href="//i.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" /><link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" /><link rel="preload" as="image" imagesrcset="https://i.imgur.com/LZTCMX2.jpeg" fetchpriority="high" />
 
    
             <link rel="canonical" href="https://keshav.du.ac.in/" />
@@ -920,11 +920,11 @@ if (clientloggerIsEnabled) {
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 1"
                             data-carousel-first-image
                             data-perf-group="main-product-image"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg"
                             fetchpriority="high"
                             data-original-image-width="3000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="0"
                         /></li>
                         <li class="wt-display-none wt-position-absolute wt-width-full wt-height-full wt-position-top wt-position-left carousel-pane no-zoom"
@@ -980,11 +980,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 2"
                             loading="lazy"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="2"
                         />
                     </li>
@@ -997,11 +997,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 3"
                             loading="lazy"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="3"
                         />
                     </li>
@@ -1014,11 +1014,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 4"
                             loading="lazy"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="4"
                         />
                     </li>
@@ -1031,11 +1031,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="name yarn jumper for kids"
                             loading="lazy"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="5"
                         />
                     </li>
@@ -1048,11 +1048,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 6"
                             loading="lazy"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="6"
                         />
                     </li>
@@ -1065,11 +1065,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 7"
                             loading="lazy"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="7"
                         />
                     </li>
@@ -1082,11 +1082,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 8"
                             loading="lazy"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="8"
                         />
                     </li>
@@ -1099,11 +1099,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 9"
                             loading="lazy"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="9"
                         />
                     </li>
@@ -1116,11 +1116,11 @@ if (clientloggerIsEnabled) {
                         <img class="wt-max-width-full wt-horizontal-center wt-vertical-center carousel-image wt-rounded"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 10"
                             loading="lazy"
-                            src="https://rjp.pages.dev/"
-                            srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            src="https://i.imgur.com/LZTCMX2.jpeg"
+                            srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-perf-group="secondary-product-image"
                             data-original-image-width="2000"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                             data-index="10"
                         />
                     </li>
@@ -1167,7 +1167,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 1"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 1 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1184,7 +1184,7 @@ if (clientloggerIsEnabled) {
                                     <img class="wt-animated wt-display-none wt-max-width-full"
                                         data-carousel-thumbnail-image
                                         src=""
-                                        data-src-delay="https://rjp.pages.dev/"
+                                        data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                         data-should-fade-in-on-load="true"
                                         alt="Product video"
                                     />
@@ -1204,7 +1204,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 2"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 2 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1220,7 +1220,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 3"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 3 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1236,7 +1236,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 4"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 4 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1252,7 +1252,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="name yarn jumper for kids"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 5 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1268,7 +1268,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 6"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 6 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1283,7 +1283,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 7"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 7 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1298,7 +1298,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 8"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 8 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1314,7 +1314,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 9"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 9 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1330,7 +1330,7 @@ if (clientloggerIsEnabled) {
                                 src=""
                                 alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 10"
                                 data-carousel-thumbnail-image
-                                data-src-delay="https://rjp.pages.dev/"
+                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                 aria-label="product image 10 of 10"
                                 data-should-fade-in-on-load="true"
                             />
@@ -1375,12 +1375,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 1"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="3000"
                             data-original-image-height="3000"
                             data-index="0"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         />
                     </li>
                         <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full wt-rounded"
@@ -1404,12 +1404,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 2"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="2"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         />
                     </li><li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                         data-listing-image
@@ -1419,12 +1419,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 3"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="3"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1435,12 +1435,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 4"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="4"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1451,12 +1451,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="name yarn jumper for kids"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="5"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1467,12 +1467,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 6"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="6"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1483,12 +1483,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 7"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="7"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1499,12 +1499,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 8"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="8"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         /></li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
                         data-listing-image
@@ -1514,12 +1514,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 9"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="9"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         />
                     </li>
                     <li class="wt-display-none wt-position-absolute wt-position-top wt-position-left wt-width-full wt-height-full skeleton-background"
@@ -1530,12 +1530,12 @@ if (clientloggerIsEnabled) {
                         <img class="wt-rounded wt-overflow-hidden image-overlay-img wt-object-fit-contain wt-vertical-center"
                             alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 10"
                             
-                            data-delay-src="https://rjp.pages.dev/"
-                            data-delay-srcset="https://rjp.pages.dev/ 1x, https://rjp.pages.dev/ 2x"
+                            data-delay-src="https://i.imgur.com/LZTCMX2.jpeg"
+                            data-delay-srcset="https://i.imgur.com/LZTCMX2.jpeg 1x, https://i.imgur.com/LZTCMX2.jpeg 2x"
                             data-original-image-width="2000"
                             data-original-image-height="2000"
                             data-index="10"
-                            data-src-zoom-image="https://rjp.pages.dev/"
+                            data-src-zoom-image="https://i.imgur.com/LZTCMX2.jpeg"
                         />
                     </li>
                 <div class="wt-z-index-1 click-to-zoom-text wt-position-absolute wt-display-none"
@@ -1564,7 +1564,7 @@ if (clientloggerIsEnabled) {
                                         alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 1"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                                     <li
@@ -1578,7 +1578,7 @@ if (clientloggerIsEnabled) {
                                             <img class="wt-skeleton-ui"
                                                 data-carousel-thumbnail-image
                                                 src=""
-                                                data-src-delay="https://rjp.pages.dev/"
+                                                data-src-delay="https://i.imgur.com/LZTCMX2.jpeg"
                                             />
 
                                             <div class="wt-circle wt-overflow-hidden video-thumbnail-icon wt-position-top wt-position-bottom wt-position-right wt-position-left wt-bg-white wt-shadow-elevation-3">
@@ -1596,7 +1596,7 @@ if (clientloggerIsEnabled) {
                                         alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 2"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1609,7 +1609,7 @@ if (clientloggerIsEnabled) {
                                         alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 3"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1622,7 +1622,7 @@ if (clientloggerIsEnabled) {
                                         alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 4"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1635,7 +1635,7 @@ if (clientloggerIsEnabled) {
                                         alt="name yarn jumper for kids"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1648,7 +1648,7 @@ if (clientloggerIsEnabled) {
                                         alt="RAJABANDOT âœ¦ Platform Toto Slot 4DBet Togel Online #100 Perak Resmi Murah Dan Cepat image 6"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1661,7 +1661,7 @@ if (clientloggerIsEnabled) {
                                         alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 7"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1674,7 +1674,7 @@ if (clientloggerIsEnabled) {
                                         alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 8"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1687,7 +1687,7 @@ if (clientloggerIsEnabled) {
                                         alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 9"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                                 <li
@@ -1700,7 +1700,7 @@ if (clientloggerIsEnabled) {
                                         alt="RAJABANDOT ✦ Platform Toto Slot 4D Bet Togel Online #100 Perak Resmi Murah Dan Cepat image 10"
                                         data-carousel-thumbnail-image
                                         loading="lazy"
-                                        src="https://rjp.pages.dev/"
+                                        src="https://i.imgur.com/LZTCMX2.jpeg"
                                     />
                                 </li>
                         </ul>
@@ -2418,12 +2418,12 @@ if (clientloggerIsEnabled) {
         <img
     data-clg-id="WtImage"
     class="wt-flex-xs-2 wt-rounded wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt=""
     style="max-height: 150px; max-width: 150px; aspect-ratio: 1;"
     loading="lazy"
     sizes="(max-width: 639px) 150px, 300px"
-    srcset="https://rjp.pages.dev/?version=0 200w, https://rjp.pages.dev/?version=0 300w, https://rjp.pages.dev/?version=0 600w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 200w, https://i.imgur.com/LZTCMX2.jpeg?version=0 300w, https://i.imgur.com/LZTCMX2.jpeg?version=0 600w"
 />
 </span>
     </span>
@@ -4107,12 +4107,12 @@ if (clientloggerIsEnabled) {
                 <img
     data-clg-id="WtImage"
     class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt="Lolly added a photo of their purchase"
     style="aspect-ratio: 1;"
     loading="lazy"
     sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-    srcset="https://rjp.pages.dev/?version=0 100w, https://rjp.pages.dev/?version=0 200w, https://rjp.pages.dev/?version=0 300w, https://rjp.pages.dev/?version=0 600w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 100w, https://i.imgur.com/LZTCMX2.jpeg?version=0 200w, https://i.imgur.com/LZTCMX2.jpeg?version=0 300w, https://i.imgur.com/LZTCMX2.jpeg?version=0 600w"
 />
 
             </div>
@@ -4128,12 +4128,12 @@ if (clientloggerIsEnabled) {
                 <img
     data-clg-id="WtImage"
     class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt="chacejmcleish added a photo of their purchase"
     style="aspect-ratio: 1;"
     loading="lazy"
     sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-    srcset="https://rjp.pages.dev/?version=0 100w,https://rjp.pages.dev/?version=0 200w, https://rjp.pages.dev/?version=0 300w, https://rjp.pages.dev/?version=0 600w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 100w,https://i.imgur.com/LZTCMX2.jpeg?version=0 200w, https://i.imgur.com/LZTCMX2.jpeg?version=0 300w, https://i.imgur.com/LZTCMX2.jpeg?version=0 600w"
 />
 
             </div>
@@ -4149,12 +4149,12 @@ if (clientloggerIsEnabled) {
                 <img
     data-clg-id="WtImage"
     class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt="Silje added a photo of their purchase"
     style="aspect-ratio: 1;"
     loading="lazy"
     sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-    srcset="https://rjp.pages.dev/?version=0 100w, https://rjp.pages.dev/?version=0 200w, https://rjp.pages.dev/?version=0 300w, https://rjp.pages.dev/?version=0 600w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 100w, https://i.imgur.com/LZTCMX2.jpeg?version=0 200w, https://i.imgur.com/LZTCMX2.jpeg?version=0 300w, https://i.imgur.com/LZTCMX2.jpeg?version=0 600w"
 />
 
             </div>
@@ -4170,12 +4170,12 @@ if (clientloggerIsEnabled) {
                 <img
     data-clg-id="WtImage"
     class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt="Katrin added a photo of their purchase"
     style="aspect-ratio: 1;"
     loading="lazy"
     sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-    srcset="https://rjp.pages.dev/?version=0 100w, https://rjp.pages.dev/?version=0 200w, https://rjp.pages.dev/?version=0 300w, https://rjp.pages.dev/?version=0 600w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 100w, https://i.imgur.com/LZTCMX2.jpeg?version=0 200w, https://i.imgur.com/LZTCMX2.jpeg?version=0 300w, https://i.imgur.com/LZTCMX2.jpeg?version=0 600w"
 />
 
             </div>
@@ -4191,12 +4191,12 @@ if (clientloggerIsEnabled) {
                 <img
     data-clg-id="WtImage"
     class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt="Rachel added a photo of their purchase"
     style="aspect-ratio: 1;"
     loading="lazy"
     sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-    srcset="https://rjp.pages.dev/?version=0 100w, https://rjp.pages.dev/?version=0 200w, https://rjp.pages.dev/?version=0 300w, https://rjp.pages.dev/?version=0 600w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 100w, https://i.imgur.com/LZTCMX2.jpeg?version=0 200w, https://i.imgur.com/LZTCMX2.jpeg?version=0 300w, https://i.imgur.com/LZTCMX2.jpeg?version=0 600w"
 />
 
             </div>
@@ -4212,12 +4212,12 @@ if (clientloggerIsEnabled) {
                 <img
     data-clg-id="WtImage"
     class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt="Hayley added a photo of their purchase"
     style="aspect-ratio: 1;"
     loading="lazy"
     sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-    srcset="https://rjp.pages.dev/?version=0 100w, https://rjp.pages.dev/?version=0 200w, https://rjp.pages.dev/?version=0 300w, https://rjp.pages.dev/?version=0 600w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 100w, https://i.imgur.com/LZTCMX2.jpeg?version=0 200w, https://i.imgur.com/LZTCMX2.jpeg?version=0 300w, https://i.imgur.com/LZTCMX2.jpeg?version=0 600w"
 />
 
             </div>
@@ -4233,12 +4233,12 @@ if (clientloggerIsEnabled) {
                 <img
     data-clg-id="WtImage"
     class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt="Chelsea added a photo of their purchase"
     style="aspect-ratio: 1;"
     loading="lazy"
     sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-    srcset="https://rjp.pages.dev/?version=0 100w, https://rjp.pages.dev/?version=0 200w, https://rjp.pages.dev/?version=0 300w, https://rjp.pages.dev/?version=0 600w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 100w, https://i.imgur.com/LZTCMX2.jpeg?version=0 200w, https://i.imgur.com/LZTCMX2.jpeg?version=0 300w, https://i.imgur.com/LZTCMX2.jpeg?version=0 600w"
 />
 
             </div>
@@ -4254,12 +4254,12 @@ if (clientloggerIsEnabled) {
                 <img
     data-clg-id="WtImage"
     class="wt-width-full wt-display-block wt-height-full wt-position-absolute wt-position-top wt-position-left wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt="Diana added a photo of their purchase"
     style="aspect-ratio: 1;"
     loading="lazy"
     sizes="(max-width: 479px) 100px, (max-width: 639px) 150px, (max-width: 899px) 200px, (max-width: 1199px) 150px, 200px"
-    srcset="https://rjp.pages.dev/?version=0 100w, https://rjp.pages.dev/?version=0 200w, https://rjp.pages.dev/?version=0 300w, https://rjp.pages.dev/?version=0 600w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 100w, https://i.imgur.com/LZTCMX2.jpeg?version=0 200w, https://i.imgur.com/LZTCMX2.jpeg?version=0 300w, https://i.imgur.com/LZTCMX2.jpeg?version=0 600w"
 />
 
             </div>
@@ -4287,12 +4287,12 @@ if (clientloggerIsEnabled) {
                 <img
     data-clg-id="WtImage"
     class="wt-circle wt-display-block wt-image--cover wt-image"
-    src="https://rjp.pages.dev/?version=0"
+    src="https://i.imgur.com/LZTCMX2.jpeg?version=0"
     alt="Rajabandot"
     style="aspect-ratio: 1;"
     
     sizes="(max-width: 639px) 65px, 80px"
-    srcset="https://rjp.pages.dev/?version=0 100w, https://rjp.pages.dev/?version=0 200w"
+    srcset="https://i.imgur.com/LZTCMX2.jpeg?version=0 100w, https://i.imgur.com/LZTCMX2.jpeg?version=0 200w"
 />
 
             </a>
@@ -5951,7 +5951,7 @@ if (clientloggerIsEnabled) {
         <button id="close-button">&times;</button>
       </div>
       <a href="https://rjp.pages.dev/" target="_blank" id="popup-link">
-        <img src="https://rjp.pages.dev/" alt="Rajabandot Daftar" />
+        <img src="https://i.imgur.com/LZTCMX2.jpeg" alt="Rajabandot Daftar" />
       </a>
     </div>
   </div>
